@@ -1,5 +1,5 @@
 # Insurance Claims due to Car Accident Data Analysis Dashboard
-![Rapido Ride Services Data Analysis Dashboard](https://github.com/arindam-bhunia/Rapido-Ride-Services-Data-Analysis-Dashboard/blob/main/Rapido%20Preview.png)
+![Insurance Claims due to Car Accident Data Analysis Dashboard](https://github.com/arindam-bhunia/Insurance-Claims-due-to-Car-Accident-Data-Analysis-Dashboard/blob/main/Insurance%20Preview.png)
 ## Preview Interactive Dashboard
 [Preview](https://arindam-bhunia.github.io/Rapido.html) (might take time to load)
 ## Download Dashboard
