@@ -8,8 +8,8 @@
 [https://www.kaggle.com/datasets/champakjyotikonwar/insurance-claims](https://www.kaggle.com/datasets/champakjyotikonwar/insurance-claims)
 
 ## About
--- Developed an Excel dashboard analyzing 1,000+ car insurance claims, integrating 8+ dynamic charts and slicers for interactivity.
--- Identified trends across 50 states and 10+ vehicle models, enabling data-driven insights into collision types and incident severity.
--- Monitored incident patterns across 24-hour time intervals, highlighting peak accident hours to improve risk assessment.
+  -- Developed an Excel dashboard analyzing 1,000+ car insurance claims, integrating 8+ dynamic charts and slicers for interactivity.
+  -- Identified trends across 50 states and 10+ vehicle models, enabling data-driven insights into collision types and incident severity.
+  -- Monitored incident patterns across 24-hour time intervals, highlighting peak accident hours to improve risk assessment.
 
 ## Analysis
