@@ -3,7 +3,7 @@
 ## Preview Interactive Dashboard
 [Preview](https://arindam-bhunia.github.io/Rapido.html) (might take time to load)
 ## Download Dashboard
-[Download]()
+[Download](https://github.com/arindam-bhunia/Insurance-Claims-due-to-Car-Accident-Data-Analysis-Dashboard/blob/main/Insurance%20Claims.xlsx)
 ## Source of the Dataset
 [https://www.kaggle.com/datasets/champakjyotikonwar/insurance-claims](https://www.kaggle.com/datasets/champakjyotikonwar/insurance-claims)
 
