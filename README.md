@@ -3,9 +3,9 @@
 ## Preview Interactive Dashboard
 [Preview](https://arindam-bhunia.github.io/Rapido.html) (might take time to load)
 ## Download Dashboard
-[Download](https://github.com/arindam-bhunia/Rapido-Ride-Services-Data-Analysis-Dashboard/blob/main/Rapido%20Ride%20Services%20Data%20Analysis%20Dashboard.xlsx)
+[Download]()
 ## Source of the Dataset
-[https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset](https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset)
+[https://www.kaggle.com/datasets/champakjyotikonwar/insurance-claims](https://www.kaggle.com/datasets/champakjyotikonwar/insurance-claims)
 
 ## About
 - Designed an interactive Excel dashboard to analyze and visualize ride services data in Bangalore.
