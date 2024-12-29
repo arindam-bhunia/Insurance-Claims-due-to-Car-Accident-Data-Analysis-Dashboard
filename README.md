@@ -1,7 +1,7 @@
 # Insurance Claims due to Car Accident Data Analysis Dashboard
 ![Insurance Claims due to Car Accident Data Analysis Dashboard](https://github.com/arindam-bhunia/Insurance-Claims-due-to-Car-Accident-Data-Analysis-Dashboard/blob/main/Insurance%20Preview.png)
 ## Preview Interactive Dashboard
-[Preview](https://github.com/arindam-bhunia/arindam-bhunia.github.io/blob/main/Insurance.html) (might take time to load)
+[Preview](https://github.com/arindam-bhunia/arindam-bhunia.github.io/Insurance.html) (might take time to load)
 ## Download Dashboard
 [Download](https://github.com/arindam-bhunia/Insurance-Claims-due-to-Car-Accident-Data-Analysis-Dashboard/blob/main/Insurance%20Claims.xlsx)
 ## Source of the Dataset
